@@ -1,4 +1,5 @@
 from supervisor.options import UnhosedConfigParser
+from supervisor.options import ProcessGroupConfig
 from supervisor.datatypes import list_of_strings
 from supervisor.states import SupervisorStates
 from supervisor.states import STOPPED_STATES
